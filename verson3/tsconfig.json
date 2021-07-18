@@ -1,0 +1,9 @@
+{
+   "compilerOption":{
+       "target":"es2018",
+       "outDir":"./distfile",
+       "rootDir":"source",
+       "module":"commonjs"
+   }
+
+}
